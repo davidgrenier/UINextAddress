@@ -1,0 +1,10 @@
+﻿body {
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;
+}
+
+* { box-sizing: border-box; }
+
+label, input, select {
+    height: 22px;
+    margin: 2px 0 2px 0;
+}
